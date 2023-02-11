@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@satyawikananda/prettier-config": "^0.0.3",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "prettier": "^2.5.1"
   },
   "type": "module"
